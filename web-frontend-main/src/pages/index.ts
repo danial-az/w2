@@ -1,0 +1,11 @@
+export { default as HomePage } from './HomePage';
+export { default as LoginPage } from './LoginPage';
+export { default as RegisterPage } from './RegisterPage';
+export { default as FormBuilderLayout } from './FormBuilderLayout';
+export { default as PublicFormPage } from './PublicFormPage';
+export { default as PublicFormStatsPage } from './PublicFormStatsPage';
+export { default as NotFoundPage } from './NotFoundPage';
+export { default as Dashboard } from './Dashboard';
+export { default as FormEditor } from './FormEditor';
+export { default as FormResponses } from './FormResponses';
+export { default as FormStats } from './FormStats'; 
